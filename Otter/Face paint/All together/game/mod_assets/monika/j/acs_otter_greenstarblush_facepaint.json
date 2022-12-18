@@ -1,28 +1,28 @@
 {
-    "__author": "otter",
-    "version": 3,
-    "type": 0,
-    "name": "acs_otter_greenstarblush_facepaint",
-    "img_sit": "otter_greenstarblush_facepaint",
-    "pose_map": {
-        "default": "0",
-        "l_default": "5"
-    },
-    "rec_layer": 4,
-    "acs_type": "facepaint_acs",
-    "mux_type": [
-        "facepaint"
-    ],
-    "stay_on_start": true,
-    "giftname": "greenstarblush_facepaint",
-    "dlg_desc": "green star blush face paint",
-    "dlg_plural": false,
-    "select_info": {
-        "display_name": "Green star blush face paint",
-        "thumb": "greenstarblush_facepaint",
-        "group": "facepaint_acs",
-        "select_dlg": [
-            "Shine bright, little star!"
-        ]
-    }
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_greenstarblush_facepaint",
+  "img_sit": "otter_greenstarblush_facepaint",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 4,
+  "acs_type": "facepaint_acs",
+  "mux_type": [
+    "facepaint"
+  ],
+  "stay_on_start": true,
+  "giftname": "greenstarblush_facepaint",
+  "dlg_desc": "green star blush face paint",
+  "dlg_plural": false,
+  "select_info": {
+    "display_name": "Green star blush face paint",
+    "thumb": "greenstarblush_facepaint",
+    "group": "facepaint_acs",
+    "select_dlg": [
+      "Shine bright, little star!"
+    ]
+  }
 }

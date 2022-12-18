@@ -1,28 +1,28 @@
 {
-    "__author": "otter",
-    "version": 3,
-    "type": 0,
-    "name": "acs_otter_smalldots_facepaint",
-    "img_sit": "otter_smalldots_facepaint",
-    "pose_map": {
-        "default": "0",
-        "l_default": "5"
-    },
-    "rec_layer": 4,
-    "acs_type": "facepaint_acs",
-    "mux_type": [
-        "facepaint"
-    ],
-    "stay_on_start": true,
-    "giftname": "smalldots_facepaint",
-    "dlg_desc": "small dots face paint",
-    "dlg_plural": false,
-    "select_info": {
-        "display_name": "Small dots face paint",
-        "thumb": "smalldots_facepaint",
-        "group": "facepaint_acs",
-        "select_dlg": [
-            "Creativity is your best makeup skill, don’t be afraid to experiment."
-        ]
-    }
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_smalldots_facepaint",
+  "img_sit": "otter_smalldots_facepaint",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 4,
+  "acs_type": "facepaint_acs",
+  "mux_type": [
+    "facepaint"
+  ],
+  "stay_on_start": true,
+  "giftname": "smalldots_facepaint",
+  "dlg_desc": "small dots face paint",
+  "dlg_plural": false,
+  "select_info": {
+    "display_name": "Small dots face paint",
+    "thumb": "smalldots_facepaint",
+    "group": "facepaint_acs",
+    "select_dlg": [
+      "Creativity is your best makeup skill, don’t be afraid to experiment."
+    ]
+  }
 }

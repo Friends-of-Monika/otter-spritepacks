@@ -1,27 +1,27 @@
 {
-    "__author": "otter",
-    "version": 3,
-    "type": 0,
-    "name": "otter_succulents_flowers_acs",
-    "img_sit": "otter_succulents_flowers_acs",
-    "pose_map": {
-	"default": "0",
-        "use_reg_for_l": true
-    },
-    "rec_layer": 2,
-    "priority": 11,
-    "acs_type": "flowers",
-    "stay_on_start": true,
-    "keep_on_desk": true,
-    "select_info": {
-	"display_name": "Succulents",
-	"thumb": "succulents_vase",
-	"group": "flowers_acs",
-	"select_dlg": [
-		"You can grow your own way!"
-	]
-    },
-    "dlg_desc": "flowers",
-    "dlg_plural": true,
-    "giftname": "succulents_vase"
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_succulents_flowers_acs",
+  "img_sit": "otter_succulents_flowers_acs",
+  "pose_map": {
+    "default": "0",
+    "use_reg_for_l": true
+  },
+  "rec_layer": 2,
+  "priority": 11,
+  "acs_type": "flowers",
+  "stay_on_start": true,
+  "keep_on_desk": true,
+  "select_info": {
+    "display_name": "Succulents",
+    "thumb": "succulents_vase",
+    "group": "flowers_acs",
+    "select_dlg": [
+      "You can grow your own way!"
+    ]
+  },
+  "dlg_desc": "flowers",
+  "dlg_plural": true,
+  "giftname": "succulents_vase"
 }

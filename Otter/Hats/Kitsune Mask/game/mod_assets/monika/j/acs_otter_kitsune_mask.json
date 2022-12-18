@@ -1,28 +1,28 @@
 {
-    "__author": "otter",
-    "version": 3,
-    "type": 0,
-    "name": "acs_otter_kitsune_mask",
-    "img_sit": "otter_kitsune_mask",
-    "pose_map": {
-        "default": "0",
-        "l_default": "5"
-    },
-    "rec_layer": 1,
-    "acs_type": "hat",
-    "stay_on_start": true,
-    "giftname": "kitsunemask",
-    "ex_props": {
-        "ribbon-like": true
-    },
-    "dlg_desc": "kitsune mask",
-    "dlg_plural": false,
-    "select_info": {
-        "display_name": "Kitsune Mask",
-        "thumb": "otter_kitsune_mask",
-        "group": "hat",
-        "select_dlg": [
-            "Kitsunes are fascinating!"
-        ]
-    }
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_kitsune_mask",
+  "img_sit": "otter_kitsune_mask",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 1,
+  "acs_type": "hat",
+  "stay_on_start": true,
+  "giftname": "kitsunemask",
+  "ex_props": {
+    "ribbon-like": true
+  },
+  "dlg_desc": "kitsune mask",
+  "dlg_plural": false,
+  "select_info": {
+    "display_name": "Kitsune Mask",
+    "thumb": "otter_kitsune_mask",
+    "group": "hat",
+    "select_dlg": [
+      "Kitsunes are fascinating!"
+    ]
+  }
 }

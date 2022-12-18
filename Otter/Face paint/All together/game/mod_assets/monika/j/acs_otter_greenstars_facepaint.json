@@ -1,28 +1,28 @@
 {
-    "__author": "otter",
-    "version": 3,
-    "type": 0,
-    "name": "acs_otter_greenstars_facepaint",
-    "img_sit": "otter_greenstars_facepaint",
-    "pose_map": {
-        "default": "0",
-        "l_default": "5"
-    },
-    "rec_layer": 4,
-    "acs_type": "facepaint_acs",
-    "mux_type": [
-        "facepaint"
-    ],
-    "stay_on_start": true,
-    "giftname": "greenstars_facepaint",
-    "dlg_desc": "green stars face paint",
-    "dlg_plural": false,
-    "select_info": {
-        "display_name": "Green stars paint",
-        "thumb": "greenstars_facepaint",
-        "group": "facepaint_acs",
-        "select_dlg": [
-            "Reach for the stars, you might just become one!"
-        ]
-    }
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_greenstars_facepaint",
+  "img_sit": "otter_greenstars_facepaint",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 4,
+  "acs_type": "facepaint_acs",
+  "mux_type": [
+    "facepaint"
+  ],
+  "stay_on_start": true,
+  "giftname": "greenstars_facepaint",
+  "dlg_desc": "green stars face paint",
+  "dlg_plural": false,
+  "select_info": {
+    "display_name": "Green stars paint",
+    "thumb": "greenstars_facepaint",
+    "group": "facepaint_acs",
+    "select_dlg": [
+      "Reach for the stars, you might just become one!"
+    ]
+  }
 }
