@@ -1,0 +1,28 @@
+{
+    "__author": "otter",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_tinystar_facepaint",
+    "img_sit": "otter_tinystar_facepaint",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 4,
+    "acs_type": "facepaint_acs",
+    "mux_type": [
+        "facepaint"
+    ],
+    "stay_on_start": true,
+    "giftname": "tinystar_facepaint",
+    "dlg_desc": "tiny star face paint",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Tiny star face paint",
+        "thumb": "tinystar_facepaint",
+        "group": "facepaint_acs",
+        "select_dlg": [
+            "You're my little star, [player]!"
+        ]
+    }
+}

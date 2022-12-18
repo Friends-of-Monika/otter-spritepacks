@@ -1,0 +1,28 @@
+{
+    "__author": "otter",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_pastelhearts_facepaint",
+    "img_sit": "otter_pastelhearts_facepaint",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 4,
+    "acs_type": "facepaint_acs",
+    "mux_type": [
+        "facepaint"
+    ],
+    "stay_on_start": true,
+    "giftname": "pastelhearts_facepaint",
+    "dlg_desc": "pastel hearts face paint",
+    "dlg_plural": true,
+    "select_info": {
+        "display_name": "Pastel Hearts face paint",
+        "thumb": "pastelhearts_facepaint",
+        "group": "facepaint_acs",
+        "select_dlg": [
+            "Pastel colors are so cute!"
+        ]
+    }
+}
