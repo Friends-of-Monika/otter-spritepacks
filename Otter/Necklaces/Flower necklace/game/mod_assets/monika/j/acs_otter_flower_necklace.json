@@ -1,0 +1,26 @@
+{
+    "__author": "otter",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_flower_necklace",
+    "img_sit": "otter_flower_necklace",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 6,
+    "acs_type": "necklace",
+    "stay_on_start": true,
+    "priority": 8,
+    "dlg_desc": "necklace",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Flower Necklace",
+        "thumb": "otter_flower_necklace",
+        "group": "necklace",
+        "select_dlg": [
+            "You're as cute as a flower, [player]!"
+        ]
+    },
+    "giftname": "flowernecklace"
+}
