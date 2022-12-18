@@ -1,0 +1,28 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_maroon_red_round_earrings",
+  "img_sit": "otter_maroon_red_round_earrings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "maroonredroundearrings",
+  "dlg_desc": "maroon red round earrings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "Maroon red round earrings",
+    "thumb": "otter_maroon_red_round_earrings",
+    "group": "earrings",
+    "select_dlg": [
+      "I've had you so many times [player], but somehow, I want more!"
+    ]
+  }
+}

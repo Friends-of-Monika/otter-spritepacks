@@ -1,0 +1,28 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_redhoops_earrings",
+  "img_sit": "otter_redhoops_earrings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "redhoopearrings",
+  "dlg_desc": "red hoop earrings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "Red hoop earrings",
+    "thumb": "otter_redhoops_earrings",
+    "group": "earrings",
+    "select_dlg": [
+      "You can never go wrong with hoops!"
+    ]
+  }
+}

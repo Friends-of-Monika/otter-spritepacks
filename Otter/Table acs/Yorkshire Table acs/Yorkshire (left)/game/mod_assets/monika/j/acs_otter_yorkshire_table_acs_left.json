@@ -1,0 +1,26 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_yorkshire_table_acs_left",
+  "img_sit": "otter_yorkshire_table_acs_left",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "rec_layer": 2,
+  "priority": 15,
+  "acs_type": "ltable_acs",
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Yorkshire Terrier",
+    "thumb": "yorkshire_left",
+    "group": "ltable_acs",
+    "select_dlg": [
+      "Woof woof, [player]!"
+    ]
+  },
+  "dlg_desc": "yorkshire",
+  "dlg_plural": false,
+  "giftname": "yorkshire_left"
+}

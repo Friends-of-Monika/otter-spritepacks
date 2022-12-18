@@ -1,0 +1,28 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_black_piercings",
+  "img_sit": "otter_black_piercings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "blackpiercings",
+  "dlg_desc": "black piercings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "Black piercings",
+    "thumb": "otter_black_piercings",
+    "group": "earrings",
+    "select_dlg": [
+      "Your body is an empty canvas. So, decorate!"
+    ]
+  }
+}

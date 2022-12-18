@@ -1,0 +1,27 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_keqing_sword_tableacs",
+  "img_sit": "otter_keqing_sword_tableacs",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "rec_layer": 2,
+  "priority": 7,
+  "acs_type": "table_acs",
+  "stay_on_start": true,
+  "keep_on_desk": true,
+  "select_info": {
+    "display_name": "Keqing Sword",
+    "thumb": "otter_keqing_sword_tableacs",
+    "group": "table_acs",
+    "select_dlg": [
+      "When your heart is set on something, you get closer to your goal with each passing day."
+    ]
+  },
+  "dlg_desc": "sword",
+  "dlg_plural": false,
+  "giftname": "otter_keqing_sword_tableacs"
+}

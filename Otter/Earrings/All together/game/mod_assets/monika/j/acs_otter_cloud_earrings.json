@@ -1,0 +1,28 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_cloud_earrings",
+  "img_sit": "otter_cloud_earrings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "cloud_earrings",
+  "dlg_desc": "cloud earrings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "Cloud earrings",
+    "thumb": "cloud_earrings",
+    "group": "earrings",
+    "select_dlg": [
+      "You are the sky. The clouds are what happens, what comes and goes."
+    ]
+  }
+}

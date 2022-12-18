@@ -1,0 +1,27 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_keqing_choker",
+  "img_sit": "otter_keqing_choker",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 5,
+  "acs_type": "choker",
+  "stay_on_start": true,
+  "priority": 8,
+  "dlg_desc": "choker",
+  "dlg_plural": false,
+  "select_info": {
+    "display_name": "Keqing Choker",
+    "thumb": "otter_keqing_choker",
+    "group": "choker"
+  },
+  "giftname": "otter_keqing_choker",
+  "arm_split": {
+    "default": "0",
+    "use_reg_for_l": true
+  }
+}

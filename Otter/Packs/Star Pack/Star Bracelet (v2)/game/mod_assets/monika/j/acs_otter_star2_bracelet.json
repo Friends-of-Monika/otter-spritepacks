@@ -1,0 +1,36 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_star2_bracelet",
+  "img_sit": "otter_star2_bracelet",
+  "pose_map": {
+    "p1": "1",
+    "p2": "2",
+    "p3": "3",
+    "p5": "5"
+  },
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Stars Bracelet",
+    "thumb": "otter_star2_bracelet",
+    "group": "bracelet_acs",
+    "visible_when_locked": false,
+    "select_dlg": [
+      "You're like a sky full of stars, [player]!"
+    ]
+  },
+  "giftname": "otter_star2_bracelet",
+  "rec_layer": 9,
+  "priority": 2,
+  "acs_type": "bracelet_acs",
+  "arm_split": {
+    "p1": "10",
+    "p2": "10",
+    "p3": "10",
+    "p5": "10"
+  },
+  "dlg_desc": "bracelet",
+  "dlg_plural": false,
+  "keep_on_desk": false
+}

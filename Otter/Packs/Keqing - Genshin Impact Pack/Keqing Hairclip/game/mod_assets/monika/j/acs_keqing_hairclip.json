@@ -1,0 +1,26 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_keqing_hairclip",
+  "img_sit": "keqing_hairclip",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 5,
+  "acs_type": "left-hair-clip",
+  "stay_on_start": true,
+  "ex_props": {
+    "o31": true
+  },
+  "select_info": {
+    "display_name": "Keqing Hairclip",
+    "thumb": "keqing_hairclip",
+    "group": "left-hair-clip",
+    "select_dlg": [
+      "When your heart is set on something, you get closer to your goal with each passing day."
+    ]
+  },
+  "giftname": "keqing_hairclip"
+}

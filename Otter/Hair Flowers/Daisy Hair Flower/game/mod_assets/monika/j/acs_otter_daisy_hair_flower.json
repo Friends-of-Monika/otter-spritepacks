@@ -1,0 +1,30 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_daisy_hair_flower",
+  "img_sit": "otter_daisy_hair_flower",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "stay_on_start": true,
+  "rec_layer": 1,
+  "priority": 20,
+  "acs_type": "left-hair-flower",
+  "mux_type": [
+    "left-hair-flower"
+  ],
+  "ex_props": {
+    "left-hair-strand-eye-level": false
+  },
+  "select_info": {
+    "display_name": "Daisy",
+    "thumb": "otter_daisy_hair_flower",
+    "group": "left-hair-flower",
+    "select_dlg": [
+      "They are the little daisies white, that dot the meadow of the night."
+    ]
+  },
+  "giftname": "daisyhairflower"
+}

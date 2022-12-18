@@ -1,0 +1,30 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_pride_intersex_earrings",
+  "img_sit": "otter_pride_intersex_earrings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "otter_pride_intersex_earrings",
+  "dlg_desc": "intersex round earrings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "Round Intersex earrings",
+    "thumb": "otter_pride_intersex_earrings",
+    "group": "earrings",
+    "select_dlg": [
+      "Never be afraid to show off your true colors, [player]!",
+      "You're not broken, you're perfect the way you are!",
+      "Remember, [player], your chromosomal makeup doesn't make you any less you~"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_hoops_earrings",
+  "img_sit": "otter_hoops_earrings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "hoopearrings",
+  "dlg_desc": "hoop earrings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "Hoop earrings",
+    "thumb": "otter_hoops_earrings",
+    "group": "earrings",
+    "select_dlg": [
+      "You can never go wrong with hoops!"
+    ]
+  }
+}

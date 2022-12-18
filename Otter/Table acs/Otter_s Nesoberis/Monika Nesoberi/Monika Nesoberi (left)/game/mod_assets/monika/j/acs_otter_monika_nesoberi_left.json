@@ -1,0 +1,26 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_monika_nesoberi_left",
+  "img_sit": "otter_monika_nesoberi_left",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "rec_layer": 2,
+  "priority": 15,
+  "acs_type": "ltable_acs",
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Monika Nesoberi",
+    "thumb": "monikanesoberi_left",
+    "group": "ltable_acs",
+    "select_dlg": [
+      "This position seems comfortable! Ahaha~"
+    ]
+  },
+  "dlg_desc": "Monika nesoberi",
+  "dlg_plural": false,
+  "giftname": "monikanesoberi_left"
+}

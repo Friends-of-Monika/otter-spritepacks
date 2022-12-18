@@ -1,0 +1,28 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_light_blue_round_earrings",
+  "img_sit": "otter_light_blue_round_earrings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "lightblueroundearrings",
+  "dlg_desc": "light blue round earrings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "Light blue round earrings",
+    "thumb": "otter_light_blue_round_earrings",
+    "group": "earrings",
+    "select_dlg": [
+      "Almost without exception, blue refers to the domain of abstraction and immateriality."
+    ]
+  }
+}

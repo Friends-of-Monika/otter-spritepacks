@@ -1,0 +1,30 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_hair_flannel_flower",
+  "img_sit": "hair_flannel_flower",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "stay_on_start": true,
+  "rec_layer": 1,
+  "priority": 20,
+  "acs_type": "left-hair-flower",
+  "mux_type": [
+    "left-hair-flower"
+  ],
+  "ex_props": {
+    "left-hair-strand-eye-level": false
+  },
+  "select_info": {
+    "display_name": "Flannel Flower",
+    "thumb": "hair_flannel_flower",
+    "group": "left-hair-flower",
+    "select_dlg": [
+      "Did you know The Mental Health Council of Australia chose this flower as their emblem?"
+    ]
+  },
+  "giftname": "hairflannelflower"
+}

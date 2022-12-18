@@ -1,0 +1,28 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_white_round_earrings",
+  "img_sit": "otter_white_round_earrings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "whiteroundearrings",
+  "dlg_desc": "white round earrings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "White round earrings",
+    "thumb": "otter_white_round_earrings",
+    "group": "earrings",
+    "select_dlg": [
+      "White is the most wonderful color because within it you can see all the colors of the rainbow."
+    ]
+  }
+}

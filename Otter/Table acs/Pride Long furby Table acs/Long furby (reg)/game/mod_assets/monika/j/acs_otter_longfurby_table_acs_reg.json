@@ -1,0 +1,26 @@
+{
+  "__author": "otter // Pride Collab 2022",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_longfurby_table_acs_reg",
+  "img_sit": "otter_longfurby_table_acs_reg",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "rec_layer": 2,
+  "priority": 15,
+  "acs_type": "table_acs",
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Long furby",
+    "thumb": "longfurby_reg",
+    "group": "table_acs",
+    "select_dlg": [
+      "U-Nye-Loo-Lay-Doo?"
+    ]
+  },
+  "dlg_desc": "long furby",
+  "dlg_plural": false,
+  "giftname": "longfurby_reg"
+}

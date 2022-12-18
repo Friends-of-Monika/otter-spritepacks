@@ -1,0 +1,26 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_nsop_table_acs_reg",
+  "img_sit": "otter_nsop_table_acs_reg",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "rec_layer": 2,
+  "priority": 15,
+  "acs_type": "table_acs",
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Nintendo Switch (Orange and Pink)",
+    "thumb": "otter_nsop_table_acs_reg",
+    "group": "table_acs",
+    "select_dlg": [
+      "Thank you for this console, [player]!"
+    ]
+  },
+  "dlg_desc": "console",
+  "dlg_plural": false,
+  "giftname": "otter_nsop_table_acs_reg"
+}

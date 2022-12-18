@@ -1,0 +1,29 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_strand_lisarose",
+  "img_sit": "otter_strand_lisarose",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 5,
+  "acs_type": "left-hair-flower",
+  "mux_type": [
+    "left-hair-flower"
+  ],
+  "stay_on_start": true,
+  "ex_props": {
+    "left-hair-strand-eye-level": true
+  },
+  "select_info": {
+    "display_name": "Lisa's Strand Rose",
+    "thumb": "otter_strand_lisarose",
+    "group": "left-hair-flower",
+    "select_dlg": [
+      "Me, a grand mage? That was a long time ago, I'm just a humble librarian now."
+    ]
+  },
+  "giftname": "otter_strand_lisarose"
+}

@@ -1,0 +1,26 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_mr_cow_plush_right",
+  "img_sit": "otter_mr_cow_plush_right",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "rec_layer": 2,
+  "priority": 15,
+  "acs_type": "rtable_acs",
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Mr. Cow Plush",
+    "thumb": "mr_cow_right",
+    "group": "rtable_acs",
+    "select_dlg": [
+      "Do you want to walk home together, [player]?"
+    ]
+  },
+  "dlg_desc": "Mr. Cow Plush",
+  "dlg_plural": false,
+  "giftname": "mrcow_right"
+}

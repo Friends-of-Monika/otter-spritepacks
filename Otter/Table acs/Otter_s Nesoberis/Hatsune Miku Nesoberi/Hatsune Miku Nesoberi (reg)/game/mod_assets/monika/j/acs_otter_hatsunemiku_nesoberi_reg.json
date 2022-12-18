@@ -1,0 +1,26 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_hatsunemiku_nesoberi_reg",
+  "img_sit": "otter_hatsunemiku_nesoberi_reg",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "rec_layer": 2,
+  "priority": 15,
+  "acs_type": "table_acs",
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Hatsune Miku Nesoberi",
+    "thumb": "mikunesoberi_reg",
+    "group": "table_acs",
+    "select_dlg": [
+      "Miku, Miku, you can call me Miku! Blue hair, blue tie, hiding in your wi-fi~"
+    ]
+  },
+  "dlg_desc": "Hatsune Miku nesoberi",
+  "dlg_plural": false,
+  "giftname": "mikunesoberi_reg"
+}

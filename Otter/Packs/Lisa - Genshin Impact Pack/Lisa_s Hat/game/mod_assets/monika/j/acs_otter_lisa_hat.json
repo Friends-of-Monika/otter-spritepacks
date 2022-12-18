@@ -1,0 +1,28 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_lisa_hat",
+  "img_sit": "otter_lisa_hat",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 1,
+  "acs_type": "hat",
+  "stay_on_start": true,
+  "giftname": "otter_lisa_hat",
+  "ex_props": {
+    "ribbon-like": true
+  },
+  "dlg_desc": "hat",
+  "dlg_plural": false,
+  "select_info": {
+    "display_name": "Lisa's Hat",
+    "thumb": "otter_lisa_hat",
+    "group": "hat",
+    "select_dlg": [
+      "Me, a grand mage? That was a long time ago, I'm just a humble librarian now."
+    ]
+  }
+}

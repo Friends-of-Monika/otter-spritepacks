@@ -1,0 +1,77 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_lisa_gloves",
+  "img_sit": "otter_lisa_gloves",
+  "pose_map": {
+    "p1": "1",
+    "p2": "2",
+    "p3": "3",
+    "p4": "4",
+    "p5": "5",
+    "p7": "7"
+  },
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Lisa's Gloves",
+    "thumb": "otter_lisa_gloves",
+    "group": "glove_acs",
+    "visible_when_locked": false,
+    "select_dlg": [
+      "Me, a grand mage? That was a long time ago, I'm just a humble librarian now."
+    ]
+  },
+  "giftname": "otter_lisa_gloves",
+  "rec_layer": 9,
+  "priority": 2,
+  "acs_type": "glove_acs",
+  "arm_split": {
+    "default": "0",
+    "l_default": "5",
+    "use_reg_for_l": true,
+    "p1": "10",
+    "p2": "10",
+    "p3": "10",
+    "p4": "0",
+    "p5": "10",
+    "p7": "10"
+  },
+  "pose_arms": {
+    "crossed": {
+      "tag": "crossed",
+      "layers": "5"
+    },
+    "left-down": {
+      "tag": "down",
+      "layers": "0"
+    },
+    "left-rest": {
+      "tag": "rest",
+      "layers": "0"
+    },
+    "right-down": {
+      "tag": "down",
+      "layers": "0"
+    },
+    "right-point": {
+      "tag": "point",
+      "layers": "0"
+    },
+    "right-restpoint": {
+      "tag": "restpoint",
+      "layers": "10"
+    },
+    "steepling": {
+      "tag": "steepling",
+      "layers": "10"
+    },
+    "lean|def": {
+      "tag": "lean",
+      "layers": "10^0"
+    }
+  },
+  "dlg_desc": "gloves",
+  "dlg_plural": true,
+  "keep_on_desk": false
+}

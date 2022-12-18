@@ -1,0 +1,31 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_omnisexual_round_earrings",
+  "img_sit": "otter_omnisexual_round_earrings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "otter_omnisexual_round_earrings",
+  "dlg_desc": "omnisexual round earrings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "Round Omnisexual earrings",
+    "thumb": "otter_omnisexual_round_earrings",
+    "group": "earrings",
+    "select_dlg": [
+      "I'll always love you, no matter what~!",
+      "You're not broken, you're perfect the way you are!",
+      "Love is love~!",
+      "Why settle for just one? There's enough love for every gender~! "
+    ]
+  }
+}

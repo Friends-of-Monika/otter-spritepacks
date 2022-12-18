@@ -1,0 +1,26 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_lisa_book_tableacs",
+  "img_sit": "otter_lisa_book_tableacs",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "rec_layer": 2,
+  "priority": 15,
+  "acs_type": "table_acs",
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Lisa's book",
+    "thumb": "otter_lisa_book_tableacs",
+    "group": "table_acs",
+    "select_dlg": [
+      "Me, a grand mage? That was a long time ago, I'm just a humble librarian now."
+    ]
+  },
+  "dlg_desc": "gift",
+  "dlg_plural": false,
+  "giftname": "otter_lisa_book_tableacs"
+}

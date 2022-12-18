@@ -1,0 +1,28 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_autumnfox_earrings",
+  "img_sit": "otter_autumnfox_earrings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "autumnfoxearrings",
+  "dlg_desc": "earrings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "Autumn Fox Earrings",
+    "thumb": "otter_autumnfox_earrings",
+    "group": "earrings",
+    "select_dlg": [
+      "Autumn is such a great season!"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_agender_round_earrings",
+  "img_sit": "otter_agender_round_earrings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "otter_agender_round_earrings",
+  "dlg_desc": "agender round earrings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "Round Agender earrings",
+    "thumb": "otter_agender_round_earrings",
+    "group": "earrings",
+    "select_dlg": [
+      "I'll always love you, no matter what~!",
+      "You're not broken, you're perfect the way you are!",
+      "Be proud, live freely~",
+      "Some are born into their bodies, some have to fight for it!"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "__author": "terminus and otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_terminus_and_otter_monikawitch_table_acs_reg",
+  "img_sit": "terminus_monikawitch_table_acs_reg",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "rec_layer": 2,
+  "priority": 15,
+  "acs_type": "table_acs",
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Witch Monika",
+    "thumb": "terminus_monikawitch_reg",
+    "group": "table_acs",
+    "select_dlg": [
+      "So cute!"
+    ]
+  },
+  "dlg_desc": "figure",
+  "dlg_plural": false,
+  "giftname": "monikawitch_reg"
+}

@@ -1,0 +1,28 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_seashellv2_earrings",
+  "img_sit": "otter_seashellv2_earrings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "seashellv2earrings",
+  "dlg_desc": "seashell earrings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "Pearl Seashell earrings",
+    "thumb": "seashellv2_earrings",
+    "group": "earrings",
+    "select_dlg": [
+      "Let's take a long walk on the beach, [player]!"
+    ]
+  }
+}

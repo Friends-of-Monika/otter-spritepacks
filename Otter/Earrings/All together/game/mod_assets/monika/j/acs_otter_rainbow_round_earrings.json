@@ -1,0 +1,28 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_rainbow_round_earrings",
+  "img_sit": "otter_rainbow_round_earrings",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "rec_layer": 10,
+  "acs_type": "earrings",
+  "mux_type": [
+    "earrings"
+  ],
+  "stay_on_start": true,
+  "giftname": "rainbowroundearrings",
+  "dlg_desc": "rainbow round earrings",
+  "dlg_plural": true,
+  "select_info": {
+    "display_name": "Rainbow round earrings",
+    "thumb": "otter_rainbow_round_earrings",
+    "group": "earrings",
+    "select_dlg": [
+      "Be a rainbow in someone else's cloud!"
+    ]
+  }
+}

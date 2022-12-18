@@ -1,0 +1,26 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_pokemon13_table_acs_reg",
+  "img_sit": "otter_pokemon13_table_acs_reg",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "rec_layer": 2,
+  "priority": 15,
+  "acs_type": "table_acs",
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Flameon",
+    "thumb": "otter_pokemon13_table_acs_reg",
+    "group": "table_acs",
+    "select_dlg": [
+      "Are you a Pokémon Trainer, [player]?"
+    ]
+  },
+  "dlg_desc": "pokémon",
+  "dlg_plural": false,
+  "giftname": "pokemon13_reg"
+}

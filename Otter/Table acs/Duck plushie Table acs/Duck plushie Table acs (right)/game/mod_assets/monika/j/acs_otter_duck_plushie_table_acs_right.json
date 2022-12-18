@@ -1,0 +1,26 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_duck_plushie_table_acs_right",
+  "img_sit": "otter_duck_plushie_table_acs_right",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "rec_layer": 2,
+  "priority": 15,
+  "acs_type": "rtable_acs",
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Duck plushie",
+    "thumb": "duckplushie_right",
+    "group": "rtable_acs",
+    "select_dlg": [
+      "Quack quack, [player]!"
+    ]
+  },
+  "dlg_desc": "duck plushie",
+  "dlg_plural": false,
+  "giftname": "duckplushie_right"
+}

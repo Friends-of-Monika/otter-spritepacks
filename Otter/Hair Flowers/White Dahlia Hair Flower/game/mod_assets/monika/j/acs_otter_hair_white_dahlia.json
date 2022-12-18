@@ -1,0 +1,30 @@
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "otter_hair_white_dahlia",
+  "img_sit": "hair_white_dahlia",
+  "pose_map": {
+    "default": "0",
+    "l_default": "5"
+  },
+  "stay_on_start": true,
+  "rec_layer": 1,
+  "priority": 20,
+  "acs_type": "left-hair-flower",
+  "mux_type": [
+    "left-hair-flower"
+  ],
+  "ex_props": {
+    "left-hair-strand-eye-level": false
+  },
+  "select_info": {
+    "display_name": "White Dahlia",
+    "thumb": "hair_white_dahlia",
+    "group": "left-hair-flower",
+    "select_dlg": [
+      "Elegance is the only beauty that never fades."
+    ]
+  },
+  "giftname": "hairwhitedahlia"
+}
