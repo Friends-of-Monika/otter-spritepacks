@@ -1,9 +1,7 @@
-# 📦 Spritepack Archive
+# 📦 Otter Spritepack Archive
 
-Friends of Monika maintains an archive of spritepacks ever created by various
-people, but which for some reason have been taken down or simply disappeared
-without a trace.
+Friends of Monika have found and picked up content Otter left behind, deleting
+their GitHub account and Google Drive.
 
-## 📜 Content
-
-* [🦦 my-otter-self's spritepacks](/Otter/)
+These spritepacks are preserved as is, only JSON files have been prettified
+automatically to make them all look uniform and valid.
